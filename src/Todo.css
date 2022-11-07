@@ -1,0 +1,48 @@
+
+.body{
+    background-color: blueviolet;
+    height:640px;}
+
+.mydiv{
+    background-color: rgb(238, 235, 240);
+    margin: auto;
+    width:340px;
+    height:500px;
+    border-radius: 15px;
+}
+.heading{
+    background-color: rgb(109, 40, 165); 
+    margin-top: 10px;
+}
+.arrow{
+    border-radius: 50%;
+    background-color: rgb(109, 40, 165); 
+    color: white;
+    padding: 1px 6px;
+    margin-top: 140px !important;  
+}
+input{
+    border: none;
+    background: transparent;
+    outline: none;
+    border-bottom: 2px solid rgb(109, 40, 165);
+    font-family: 500;
+    font-size: 20px;
+}
+.arrow:hover{
+    background-color: darkgreen;
+}
+ol li{
+    list-style: none;
+    text-transform: uppercase;
+}
+.crossIcon{
+    background-color: rgb(109, 40, 165);
+    padding: 5px 13px;
+    color:white;
+    border-radius: 50%;
+    border: none;
+}
+.crossIcon:hover{
+    background-color: crimson;
+}
